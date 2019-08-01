@@ -1,0 +1,10 @@
+E:\codes\STD.Windows\STD.Windows\STD.Windows.Service\obj\Debug\STD.Windows.Service.csproj.CoreCompileInputs.cache
+E:\codes\STD.Windows\STD.Windows\STD.Windows.Service\obj\Debug\STD.Windows.Service.csprojAssemblyReference.cache
+E:\vs2017\codes\STD.Windows\STD.Windows.Service\bin\Debug\STD.Windows.Service.dll
+E:\vs2017\codes\STD.Windows\STD.Windows.Service\bin\Debug\STD.Windows.Service.pdb
+E:\vs2017\codes\STD.Windows\STD.Windows.Service\bin\Debug\RevitAPI.dll
+E:\vs2017\codes\STD.Windows\STD.Windows.Service\obj\Debug\STD.Windows.Service.csprojAssemblyReference.cache
+E:\vs2017\codes\STD.Windows\STD.Windows.Service\obj\Debug\STD.Windows.Service.csproj.CoreCompileInputs.cache
+E:\vs2017\codes\STD.Windows\STD.Windows.Service\obj\Debug\STD.Windows.Service.csproj.CopyComplete
+E:\vs2017\codes\STD.Windows\STD.Windows.Service\obj\Debug\STD.Windows.Service.dll
+E:\vs2017\codes\STD.Windows\STD.Windows.Service\obj\Debug\STD.Windows.Service.pdb

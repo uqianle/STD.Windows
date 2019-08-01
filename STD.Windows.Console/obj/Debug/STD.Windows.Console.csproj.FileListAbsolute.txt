@@ -1,0 +1,13 @@
+E:\codes\STD.Windows\STD.Windows\STD.Windows.Console\bin\Debug\STD.Windows.Console.exe.config
+E:\codes\STD.Windows\STD.Windows\STD.Windows.Console\bin\Debug\STD.Windows.Console.exe
+E:\codes\STD.Windows\STD.Windows\STD.Windows.Console\bin\Debug\STD.Windows.Console.pdb
+E:\codes\STD.Windows\STD.Windows\STD.Windows.Console\obj\Debug\STD.Windows.Console.csproj.CoreCompileInputs.cache
+E:\codes\STD.Windows\STD.Windows\STD.Windows.Console\obj\Debug\STD.Windows.Console.exe
+E:\codes\STD.Windows\STD.Windows\STD.Windows.Console\obj\Debug\STD.Windows.Console.pdb
+E:\vs2017\codes\STD.Windows\STD.Windows.Console\bin\Debug\STD.Windows.Console.exe.config
+E:\vs2017\codes\STD.Windows\STD.Windows.Console\bin\Debug\STD.Windows.Console.exe
+E:\vs2017\codes\STD.Windows\STD.Windows.Console\bin\Debug\STD.Windows.Console.pdb
+E:\vs2017\codes\STD.Windows\STD.Windows.Console\obj\Debug\STD.Windows.Console.csprojAssemblyReference.cache
+E:\vs2017\codes\STD.Windows\STD.Windows.Console\obj\Debug\STD.Windows.Console.csproj.CoreCompileInputs.cache
+E:\vs2017\codes\STD.Windows\STD.Windows.Console\obj\Debug\STD.Windows.Console.exe
+E:\vs2017\codes\STD.Windows\STD.Windows.Console\obj\Debug\STD.Windows.Console.pdb
