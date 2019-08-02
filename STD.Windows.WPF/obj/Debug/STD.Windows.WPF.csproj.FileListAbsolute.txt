@@ -27,3 +27,17 @@ E:\vs2017\codes\STD.Windows\STD.Windows.WPF\obj\Debug\STD.Windows.WPF.csproj.Gen
 E:\vs2017\codes\STD.Windows\STD.Windows.WPF\obj\Debug\STD.Windows.WPF.csproj.CoreCompileInputs.cache
 E:\vs2017\codes\STD.Windows\STD.Windows.WPF\obj\Debug\STD.Windows.WPF.exe
 E:\vs2017\codes\STD.Windows\STD.Windows.WPF\obj\Debug\STD.Windows.WPF.pdb
+C:\soft\vs2017\STD.Windows\STD.Windows.WPF\bin\Debug\STD.Windows.WPF.exe.config
+C:\soft\vs2017\STD.Windows\STD.Windows.WPF\bin\Debug\STD.Windows.WPF.exe
+C:\soft\vs2017\STD.Windows\STD.Windows.WPF\bin\Debug\STD.Windows.WPF.pdb
+C:\soft\vs2017\STD.Windows\STD.Windows.WPF\obj\Debug\MainWindow.g.cs
+C:\soft\vs2017\STD.Windows\STD.Windows.WPF\obj\Debug\App.g.cs
+C:\soft\vs2017\STD.Windows\STD.Windows.WPF\obj\Debug\STD.Windows.WPF_MarkupCompile.cache
+C:\soft\vs2017\STD.Windows\STD.Windows.WPF\obj\Debug\STD.Windows.WPF_MarkupCompile.lref
+C:\soft\vs2017\STD.Windows\STD.Windows.WPF\obj\Debug\MainWindow.baml
+C:\soft\vs2017\STD.Windows\STD.Windows.WPF\obj\Debug\STD.Windows.WPF.g.resources
+C:\soft\vs2017\STD.Windows\STD.Windows.WPF\obj\Debug\STD.Windows.WPF.Properties.Resources.resources
+C:\soft\vs2017\STD.Windows\STD.Windows.WPF\obj\Debug\STD.Windows.WPF.csproj.GenerateResource.cache
+C:\soft\vs2017\STD.Windows\STD.Windows.WPF\obj\Debug\STD.Windows.WPF.csproj.CoreCompileInputs.cache
+C:\soft\vs2017\STD.Windows\STD.Windows.WPF\obj\Debug\STD.Windows.WPF.exe
+C:\soft\vs2017\STD.Windows\STD.Windows.WPF\obj\Debug\STD.Windows.WPF.pdb

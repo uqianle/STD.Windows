@@ -11,3 +11,9 @@ E:\vs2017\codes\STD.Windows\STD.Windows.Console\obj\Debug\STD.Windows.Console.cs
 E:\vs2017\codes\STD.Windows\STD.Windows.Console\obj\Debug\STD.Windows.Console.csproj.CoreCompileInputs.cache
 E:\vs2017\codes\STD.Windows\STD.Windows.Console\obj\Debug\STD.Windows.Console.exe
 E:\vs2017\codes\STD.Windows\STD.Windows.Console\obj\Debug\STD.Windows.Console.pdb
+C:\soft\vs2017\STD.Windows\STD.Windows.Console\bin\Debug\STD.Windows.Console.exe.config
+C:\soft\vs2017\STD.Windows\STD.Windows.Console\bin\Debug\STD.Windows.Console.exe
+C:\soft\vs2017\STD.Windows\STD.Windows.Console\bin\Debug\STD.Windows.Console.pdb
+C:\soft\vs2017\STD.Windows\STD.Windows.Console\obj\Debug\STD.Windows.Console.csproj.CoreCompileInputs.cache
+C:\soft\vs2017\STD.Windows\STD.Windows.Console\obj\Debug\STD.Windows.Console.exe
+C:\soft\vs2017\STD.Windows\STD.Windows.Console\obj\Debug\STD.Windows.Console.pdb

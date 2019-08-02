@@ -1,0 +1,11 @@
+C:\soft\vs2017\STD.Windows\STD.Windows.Revit\obj\Debug\STD.Windows.Revit.csproj.CoreCompileInputs.cache
+C:\soft\vs2017\STD.Windows\STD.Windows.Revit\bin\Debug\STD.Windows.Revit.dll
+C:\soft\vs2017\STD.Windows\STD.Windows.Revit\bin\Debug\STD.Windows.Revit.pdb
+C:\soft\vs2017\STD.Windows\STD.Windows.Revit\bin\Debug\RevitAPIUI.dll
+C:\soft\vs2017\STD.Windows\STD.Windows.Revit\bin\Debug\STD.Windows.WPF.exe
+C:\soft\vs2017\STD.Windows\STD.Windows.Revit\bin\Debug\STD.Windows.WPF.pdb
+C:\soft\vs2017\STD.Windows\STD.Windows.Revit\bin\Debug\STD.Windows.WPF.exe.config
+C:\soft\vs2017\STD.Windows\STD.Windows.Revit\obj\Debug\STD.Windows.Revit.csprojAssemblyReference.cache
+C:\soft\vs2017\STD.Windows\STD.Windows.Revit\obj\Debug\STD.Windows.Revit.csproj.CopyComplete
+C:\soft\vs2017\STD.Windows\STD.Windows.Revit\obj\Debug\STD.Windows.Revit.dll
+C:\soft\vs2017\STD.Windows\STD.Windows.Revit\obj\Debug\STD.Windows.Revit.pdb

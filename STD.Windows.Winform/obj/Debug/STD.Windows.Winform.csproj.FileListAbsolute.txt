@@ -17,3 +17,12 @@ E:\vs2017\codes\STD.Windows\STD.Windows.Winform\obj\Debug\STD.Windows.Winform.cs
 E:\vs2017\codes\STD.Windows\STD.Windows.Winform\obj\Debug\STD.Windows.Winform.csproj.CoreCompileInputs.cache
 E:\vs2017\codes\STD.Windows\STD.Windows.Winform\obj\Debug\STD.Windows.Winform.exe
 E:\vs2017\codes\STD.Windows\STD.Windows.Winform\obj\Debug\STD.Windows.Winform.pdb
+C:\soft\vs2017\STD.Windows\STD.Windows.Winform\bin\Debug\STD.Windows.Winform.exe.config
+C:\soft\vs2017\STD.Windows\STD.Windows.Winform\bin\Debug\STD.Windows.Winform.exe
+C:\soft\vs2017\STD.Windows\STD.Windows.Winform\bin\Debug\STD.Windows.Winform.pdb
+C:\soft\vs2017\STD.Windows\STD.Windows.Winform\obj\Debug\STD.Windows.Winform.Form1.resources
+C:\soft\vs2017\STD.Windows\STD.Windows.Winform\obj\Debug\STD.Windows.Winform.Properties.Resources.resources
+C:\soft\vs2017\STD.Windows\STD.Windows.Winform\obj\Debug\STD.Windows.Winform.csproj.GenerateResource.cache
+C:\soft\vs2017\STD.Windows\STD.Windows.Winform\obj\Debug\STD.Windows.Winform.csproj.CoreCompileInputs.cache
+C:\soft\vs2017\STD.Windows\STD.Windows.Winform\obj\Debug\STD.Windows.Winform.exe
+C:\soft\vs2017\STD.Windows\STD.Windows.Winform\obj\Debug\STD.Windows.Winform.pdb
